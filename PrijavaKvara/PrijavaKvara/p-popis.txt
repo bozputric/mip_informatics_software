@@ -1,0 +1,223 @@
+﻿PRODAVAONICA 001<br />192.168.1.0/28<br />192.168.1.1<br />Stjepana i Antuna Radića 10, Sisak<br />044/523-541
+PRODAVAONICA 003<br />192.168.1.32/28<br />192.168.1.33<br />Franje Lovrića 1, Sisak<br />044/547-010
+PRODAVAONICA 004<br />192.168.1.48/28<br />192.168.67.253<br />Kralja Zvonimira 24, Sisak<br />044/515-144
+PRODAVAONICA 005<br />192.168.1.64/28<br />192.168.67.253<br />Ivana K. Sakcinskog 28, Sisak<br />044/522-709
+PRODAVAONICA 006<br />192.168.1.80/28<br />192.168.1.81<br />Ivana K. Sakcinskog 28, Sisak<br />044/547-231
+PRODAVAONICA 007<br />192.168.1.80/28<br />192.168.1.97<br />Frankopanska bb, Sisak<br />044/733-405<br/>
+PRODAVAONICA 010<br />192.168.1.144/28<br />192.168.1.145<br />Matije Gupca 15, Sunja<br />044/833-900
+PRODAVAONICA 011<br />192.168.1.160/28<br />192.168.1.161<br />Petrinjska 52a, Sisak<br />044/535-811
+PRODAVAONICA 012<br />192.168.1.176/28<br />192.168.1.177<br />Poljana Lekenička 53a, Lekenik<br />044/772-055
+PRODAVAONICA 013<br />192.168.1.192/28<br />192.168.1.193<br />Antuna i Stjepana Radića 21<br />044/522-280
+PRODAVAONICA 014<br />192.168.1.208/28<br />192.168.1.209<br />Palanjek 46<br />044/773-201
+PRODAVAONICA 016<br />192.168.1.240/28<br />192.168.1.241<br />Matije Gupca 15, Sisak<br />044/833-025
+PRODAVAONICA 017<br />192.168.2.0/28<br />192.168.2.1<br />J. J. Strossmayera 104<br />044/531-360
+PRODAVAONICA 018<br />192.168.2.16/28<br />192.168.2.17<br />Banski Grabovac 150, Jabukovac<br />044/522-926
+PRODAVAONICA 020<br />192.168.2.48/28<br />192.168.2.49<br />Trg 22. lipnja<br />044/548-023
+PRODAVAONICA 021<br />192.168.2.64/28<br />192.168.2.65<br />J. J. Strossmayera 55<br />044/530-432
+PRODAVAONICA 023<br />192.168.2.96/28<br />192.168.2.97<br />Tomislavova 16<br />044/520-286
+PRODAVAONICA 026<br />192.168.2.144/28<br />192.168.2.145<br />Plitvička ulica 35, Glina<br />044/880-491
+PRODAVAONICA 028<br />192.168.2.176/28<br />Sela, Sisačka 29<br />044/713-331
+PRODAVAONICA 029<br />192.168.2.192/28<br />192.168.2.193<br />Sisačka 29, Sela<br />044/573-877
+PRODAVAONICA 030<br />192.168.2.208/28<br />192.168.2.209<br />Galdovačka 138, Galdovo<br />044/741-219
+PRODAVAONICA 031<br />192.168.2.224/28<br />192.168.67.253<br />Kralja Zvonimira 24, Sisak<br />
+PRODAVAONICA 034<br />192.168.3.16/28<br /><br />Filipovićeva 4, Petrinja<br />044/505-502
+PRODAVAONICA 035<br />192.168.3.32/28<br />192.168.3.33<br />Gušće 105, Gušće<br />044/715-172
+PRODAVAONICA 036<br />192.168.3.48/28<br />192.168.3.49<br />Svetog Fabijana 2, Kuče<br />01/6236-435
+PRODAVAONICA 037<br />192.168.23.160/28<br />192.168.23.161<br />Kralja Tomislava 24, Sisak<br />044/550-472
+PRODAVAONICA 038<br />Nikole Tesle 10, Sisak<br />044/635-131
+PRODAVAONICA 039<br />192.168.3.96/28<br />192.168.3.97<br />Vladimira Nazora 18, Petrinja<br />044/717-288
+PRODAVAONICA 040<br />192.168.3.112/28<br />192.168.3.113<br />Matije Gupca 27, Petrinja	<br />044/717-288
+PRODAVAONICA 041<br />192.168.3.128/28<br />192.168.3.129<br />Ante Starčevića 89, Mošćenica<br />044/733-036
+PRODAVAONICA 042<br />192.168.3.144/28<br />192.168.3.145<br />I. Zocha 2, Petrinja<br />044/862-672
+PRODAVAONICA 043<br />192.168.3.160/28<br />192.168.3.161<br />Braće Radić 44, Mošćenica<br />044/733-047
+PRODAVAONICA 044<br />192.168.3.176/28<br />192.168.3.177<br />Stari brod 42a, 44271 Letovanić<br />044/751-514
+PRODAVAONICA 045<br />192.168.3.192/28<br />192.168.3.193<br />Strossmayerova 4, Mošćenica<br />044/733-588
+PRODAVAONICA 046<br />192.168.3.208/28<br />192.168.3.209<br />Ulica gromova 29, Petrinja<br />044/813-190
+PRODAVAONICA 047<br />192.168.3.224/28<br />192.168.3.225<br />Radićeva 173,Petrinja<br />044/813-480
+PRODAVAONICA 048<br />192.168.3.240/28<br />192.168.3.241<br />Trg Majke Hrvatice 6a,V.Mlaka<br />01/6235-476
+PRODAVAONICA 049<br />192.168.4.0/28<br />192.168.4.1<br />Radoslava Lopašića 6,Petrinja<br />044/771-158
+PRODAVAONICA 051<br />192.168.4.32/28<br />192.168.4.33<br />Ivana K. Sakcinskog 28, Sisak<br />044/881-207
+PRODAVAONICA 052<br />192.168.4.48/28<br />192.168.4.49<br />Nebojan 152, Nebojan<br />044/751-153
+PRODAVAONICA 053<br />192.168.4.64/28<br />192.168.4.65<br />Prelošćica 184, Prelošćica<br />044/523-296
+PRODAVAONICA 054<br />192.168.4.80/28<br />Officebox: 192.168.1.1<br />Gordana Lederera 35, Majur<br />044/858-036
+PRODAVAONICA 055<br />192.168.4.96/28<br />192.168.4.97<br />Blinja 12, Blinja<br />044/863-080
+PRODAVAONICA 056<br />192.168.4.112/28<br />192.168.4.113<br />Marijana Celjaka 3 p/n, Sisak<br />044/771-327
+PRODAVAONICA 057<br />192.168.4.128/28<br />192.168.4.129<br />Jabukovac 36	<br />	044/823-181
+PRODAVAONICA 058<br />192.168.4.144/28<br />192.168.4.145<br />Mali gradac 99, Glina	<br />	044/893-008
+PRODAVAONICA 059<br />Jabukovac 43, Jabukovac<br />044/871-200
+PRODAVAONICA 060<br />	192.168.4.176/28	<br />	192.168.4.177	<br />	Hrastelnica 190, Hrastelnica	<br />	044/741-836	<br/>
+PRODAVAONICA 061<br />	192.168.4.192/28	<br />	192.168.4.193	<br />	Brezje 45c, Petrinja	<br />	044/813-414	<br/>
+PRODAVAONICA 062<br />	192.168.4.208/28	<br />	192.168.4.209	<br />	Sisačka 112c, Petrinja	<br />	044/862-847	<br/>
+PRODAVAONICA 063<br />	192.168.4.224/28	<br />	192.168.4.225	<br />	Tišina Kaptolska 27, Sisak	<br />	044/771-127	<br/>
+PRODAVAONICA 064<br />	192.168.4.240/28	<br />			Gajeva 50, Petrinja	<br />	044/814-904	<br/>
+PRODAVAONICA 065<br />	192.168.5.0/28	<br />	192.168.5.1	<br />	Glinska 14a, Topusko	<br />	044/885-562	<br/>
+PRODAVAONICA 066<br />	192.168.5.16/28	<br />	192.168.5.17	<br />	M.Gupca 103, Petrinja	<br />	044/813-553	<br/>
+PRODAVAONICA 067<br />	192.168.5.32/28	<br />	192.168.5.33	<br />	Graberje 4, Graberje	<br />	044/825-073	<br/>
+PRODAVAONICA 068<br />	192.168.5.48/28	<br />	192.168.5.49	<br />	Desno Željezno 47	<br />	044/716-062	<br/>
+PRODAVAONICA 071<br />	192.168.5.80/28	<br />	192.168.5.81	<br />	A.B.Šimića 1, Sisak	<br />	044/530-542	<br/>
+PRODAVAONICA 072<br />	192.168.5.96/28	<br />	192.168.5.97	<br />	Letovanić 124,Letovanić	<br />	044/751-508	<br/>
+PRODAVAONICA 073<br />	192.168.5.112/28	<br />	192.168.5.113	<br />	Dužica 70,Dužica	<br />	044/752-295	<br/>
+PRODAVAONICA 074<br />	192.168.5.128/28	<br />	192.168.5.129	<br />	M.Celjaka 90,Sisak	<br />	044/571-672	<br/>
+PRODAVAONICA 075<br />	192.168.5.144/28	<br />	192.168.5.145	<br />	Hrv. Domobrana 42, 44000 Sisak	<br />	044/532-081	<br/>
+PRODAVAONICA 076<br />	192.168.5.160/28	<br />	192.168.5.161	<br />	Greda 127,Greda	<br />	044/713-465	<br/>
+PRODAVAONICA 077	<br />	192.168.5.176/28	<br />	192.168.5.177	<br />	Zagrebačka 42,Lekenik	<br />	044/742-990	<br/>
+PRODAVAONICA 078	<br />	192.168.5.192/28	<br />			D.Trebarjevo 246, Martinska Ves	<br />	044/656-149	<br/>
+PRODAVAONICA 079	<br />	192.168.5.208/28	<br />	192.168.5.209	<br />	Mahovo 143, Mahovo	<br />	044/771-290	<br/>
+PRODAVAONICA 080	<br />	192.168.5.224/28	<br />	192.168.5.225	<br />	A.Starčevića 73, Mošćenica	<br />	044/733-049	<br/>
+PRODAVAONICA 081	<br />	192.168.5.240/28	<br />	192.168.5.241	<br />	Sisačka 143, Petrinja	<br />	044/862-408	<br/>
+PRODAVAONICA 082	<br />	192.168.6.0/28	<br />	192.168.6.1	<br />	Sela 118a, Sela	<br />	044/742-815	<br/>
+PRODAVAONICA 083	<br />	192.168.6.16/28	<br />	192.168.6.17	<br />	Zagrebačka 77, Lekenik	<br />	044/771-159	<br/>
+PRODAVAONICA 084	<br />	192.168.6.32/28	<br />	192.168.6.33	<br />	Andrije Hebranga 22, Kutina	<br />	044/681-331	<br/>
+PRODAVAONICA 085	<br />	192.168.6.48/28	<br />	192.168.6.49	<br />	Matije Gupca 3, Kutina	<br />	044/630-856	<br/>
+PRODAVAONICA 086	<br />	192.168.6.64/28	<br />	192.168.6.65	<br />	Šartovačka 9a, Šartovac, Kutina	<br />	044/637-668	<br/>
+PRODAVAONICA 088	<br />	192.168.6.96/28	<br />	192.168.6.97	<br />	V.Nazora 102,Kutina	<br />	044/680-721	<br/>
+PRODAVAONICA 089	<br />	192.168.6.112/28	<br />	192.168.6.113	<br />	Batina 18,Kutina	<br />	044/640-195	<br/>
+PRODAVAONICA 090	<br />	192.168.6.128/28	<br />			Trg Svetog Antuna 19, Voloder	<br />	044/650-647	<br/>
+PRODAVAONICA 091	<br />	192.168.6.144/28	<br />			Hrastovica 69a, Petrinja	<br />	044/861-222	<br/>
+PRODAVAONICA 092	<br />	192.168.6.160/28	<br />			Vukojevac Donji 84, Lekenik	<br />	044/732-004	<br/>
+PRODAVAONICA 093	<br />	192.168.6.176/28	<br />			Staro Čiče, Seljine brigade 1/2	<br />	01/6230-356	<br/>
+PRODAVAONICA 094	<br />	192.168.6.192/28	<br />			Kurilovečka 128, V.Gorica	<br />	01/6267-729	<br/>
+PRODAVAONICA 095	<br />	192.168.6.208/28	<br />			Kriška 40, Rečica Kriška	<br />	01/2823-300	<br/>
+PRODAVAONICA 096	<br />	192.168.6.224/28	<br />			Stupno 39, Sisak	<br />	044/713-184	<br/>
+PRODAVAONICA 097	<br />	192.168.6.240/28	<br />			Franje Lovrića 7, Sisak	<br />	044/540-311	<br/>
+PRODAVAONICA 098	<br />	192.168.7.0/28	<br />			Sisačka 24, Petrinja	<br />	044/813-684	<br/>
+PRODAVAONICA 099	<br />	192.168.7.16/28	<br />			Gora 66a, Petrinja	<br />	044/824-680	<br/>
+PRODAVAONICA 100	<br />	192.168.7.32/28	<br />			Radićeva 118, Petrinja	<br />	044/815-612	<br/>
+PRODAVAONICA 101	<br />	192.168.19.32/28	<br />			Luka Lijeva 58, Martinska Ves	<br />	044/712-086	<br/>
+PRODAVAONICA 102	<br />	192.168.7.64/28	<br />			Viduševačka 2, Glina	<br />	044/880-049	<br/>
+PRODAVAONICA 103	<br />	192.168.7.80/28	<br />			Trg Luke Ilića Oriovčanina 12, Novska	<br />	044/600-906	<br/>
+PRODAVAONICA 104	<br />	192.168.7.96/28	<br />			Zagrebačka 91, Pešćenica	<br />	044/714-074	<br/>
+PRODAVAONICA 106	<br />	192.168.7.128/28	<br />			Voćarica 48, Novska	<br />	044/605-220	<br/>
+PRODAVAONICA 107	<br />	192.168.7.144/28	<br />			Trg hrv. Branitelja 10, Rajić	<br />	044/674-520	<br/>
+PRODAVAONICA 108	<br />	192.168.7.160/28	<br />			Košutarica 52, Jasenovac	<br />	044/602-063	<br/>
+PRODAVAONICA 109	<br />	192.168.7.176/28	<br />			Novo Pračno 180, Sisak	<br />	044/718-533	<br/>
+PRODAVAONICA 110	<br />	192.168.7.192/28	<br />			Hrvatskog narodnog preporoda 54, Sisak	<br />	044/538-865	<br/>
+PRODAVAONICA 111	<br />	192.168.7.208/28	<br />			Radnička 6, 47220 Vojnić	<br />	047/883-033	<br/>
+PRODAVAONICA 112	<br />	192.168.7.224/28	<br />			Poljanska 79b, Antunovac	<br />	034/431-246	<br/>
+PRODAVAONICA 113	<br />	192.168.7.240/28	<br />			Vatrogasna 54, Petrinja	<br />	044/816-060	<br/>
+PRODAVAONICA 114	<br />	192.168.8.0/28	<br />			Školska 18, Križ	<br />	01/2824-208	<br/>
+PRODAVAONICA 115	<br />	192.168.8.16/28	<br />			Hrvatske mladeži 6, Novoselec	<br />	01/2897-010	<br/>
+PRODAVAONICA 116	<br />	192.168.8.32/28	<br />			Stjepana Radića 1, Dobrovac	<br />	034/422-206	<br/>
+PRODAVAONICA 117	<br />	192.168.8.48/28	<br />			Slavonska 34, Lipik	<br />	034/422-324	<br/>
+PRODAVAONICA 118	<br />	192.168.8.64/28	<br />			Hrvatska ulica 1, Glina	<br />	044/880-761	<br/>
+PRODAVAONICA 119	<br />	192.168.8.80/28	<br />			Ivanovo polje 53, Daruvar	<br />	043/328-905	<br/>
+PRODAVAONICA 120	<br />	192.168.8.96/28	<br />			Pokupljanska 12, Sisak	<br />	044/570-989	<br/>
+PRODAVAONICA 122	<br />	192.168.8.128/28	<br />			Novoselska 115	<br />	044/719-013	<br/>
+PRODAVAONICA 123	<br />	192.168.8.144/28	<br />			Trg hrvatskih dragovoljaca 1, Topolovac	<br />	044/730-187	<br/>
+PRODAVAONICA 125	<br />	192.168.8.176/28	<br />			Jurja Dobrile 42, Velika Gorica	<br />	01/6260-297	<br/>
+PRODAVAONICA 126	<br />	192.168.8.192/28	<br />			Vladimira Nazora 113, Sunja	<br />	044/833-312	<br/>
+PRODAVAONICA 127	<br />	192.168.8.208/28	<br />			Donja Bačuga 117a, Petrinja	<br />	044/826-083	<br/>
+PRODAVAONICA 128	<br />	192.168.8.224/28	<br />			Novo Pračno 2, Sisak	<br />	044/718-614	<br/>
+PRODAVAONICA 129	<br />	192.168.8.240/28	<br />			Novo Pračno 3, Sisak	<br />	044/535-087	<br/>
+PRODAVAONICA 130	<br />	192.168.9.0/28	<br />			Odra 178, Sisak	<br />	044/720-337; 720-412; 720-981	<br/>
+PRODAVAONICA 131	<br />	192.168.9.16/28	<br />			Radićeva 17, Daruvar	<br />	043/333-087	<br/>
+PRODAVAONICA 132	<br />	192.168.9.32/28	<br />			Jadranska 5, Lipik	<br />	034/422-303	<br/>
+PRODAVAONICA 133	<br />	192.168.9.48/28	<br />			Rakitovec 310, Velika Gorica	<br />	01/6255-129	<br/>
+PRODAVAONICA 134	<br />	192.168.9.64/28	<br />			Josipa Jelačića 5, Daruvar	<br />	043/333-878	<br/>
+PRODAVAONICA 135	<br />	192.168.9.80/28	<br />			Savska 38, Sisak	<br />	044/741-258	<br/>
+PRODAVAONICA 136	<br />	192.168.9.96/28	<br />			Sisačka 45, Buševec	<br />	01/6255-174	<br/>
+PRODAVAONICA 137	<br />	192.168.9.112/28	<br />			Donja Čemernica 134, Topusko	<br />	044/888-656	<br/>
+PRODAVAONICA 138	<br />	192.168.9.128/28	<br />			Stjepana i Antuna Radića 49	<br />	044/540-070; 044/200-794	<br/>
+PRODAVAONICA 139	<br />	192.168.9.144/28	<br />			Sisačka 1, Petrinja	<br />	044/813-794	<br/>
+PRODAVAONICA 140	<br />	192.168.9.160/28	<br />			Stjepana Radića 2, Prekopakra	<br />	034/438-344	<br/>
+PRODAVAONICA 141	<br />	192.168.9.176/28	<br />			Vladimira Nazora 50, Hrvatska Kostajnica	<br />	044/851-188	<br/>
+PRODAVAONICA 142	<br />	192.168.9.192/28	<br />			Dežanovac 267, 43506 Dežanovac	<br />	043/381-369	<br/>
+PRODAVAONICA 143	<br />	192.168.9.208/28	<br />			Hrvatskih branitelja 52, Doljani	<br />	043/323-028	<br/>
+PRODAVAONICA 144	<br />	192.168.9.224/28	<br />			Masarykova 5, Trojeglava, Dežanovac	<br />	043/329-104	<br/>
+PRODAVAONICA 145	<br />	192.168.9.240/28	<br />			Raičevac 54, Popovača	<br />	044/670-398	<br/>
+PRODAVAONICA 146	<br />	192.168.10.0/28	<br />			Sudre Slavka 11a, Gaj, Poljana	<br />	034/432-005	<br/>
+PRODAVAONICA 147	<br />	192.168.10.16/28	<br />			Ulica Ljudevita Gaja 47, Poljana	<br />	034/431-010	<br/>
+PRODAVAONICA 148	<br />	192.168.10.32/28	<br />			Berislava Pavičića 21a, Sisak	<br />	044/570-366	<br/>
+PRODAVAONICA 150	<br />	192.168.10.64/28	<br />			Sela 173	<br />	044/713-167	<br/>
+PRODAVAONICA 151	<br />	192.168.30.64/28	<br />			Trg Stjepana Radića 19, Kravarsko	<br />	01/3232-409	<br/>
+PRODAVAONICA 152	<br />	192.168.10.96/28	<br />			Stjepana Kefelje 44, Kutinska Slatina	<br />	044/653-340	<br/>
+PRODAVAONICA 153	<br />	192.168.10.112/28	<br />			Ribnica 165/1	<br />	01/6232-977	<br/>
+PRODAVAONICA 154	<br />	192.168.10.128/28	<br />			J.J. Strossmayera 198B	<br />	044/530-524	<br/>
+PRODAVAONICA 155	<br />	192.168.10.144/28	<br />			I.K. Sakcinskog 28	<br />	044/521-017	<br/>
+PRODAVAONICA 156	<br />	192.168.10.160/28	<br />			Trg Petra Preradovića 2c, Petrinja	<br />	044/815-021	<br/>
+PRODAVAONICA 157	<br />	192.168.10.176/28	<br />			Krapje 133, Jasenovac	<br />	044/611-021	<br/>
+PRODAVAONICA 158	<br />	192.168.10.192/28	<br />			S.S.Kranjčevića 40, Daruvar	<br />	043/440-268	<br/>
+PRODAVAONICA 159	<br />	192.168.10.208/28	<br />			Donje Komarevo cesta 4, Blinjski kut	<br />	044/718-747	<br/>
+PRODAVAONICA 161	<br />	192.168.10.240/28	<br />			Gušće 120, Gušće	<br />	044/715-117	<br/>
+PRODAVAONICA 162	<br />	192.168.11.0/28	<br />			Ratka Djetelića 51, Hrv. Kostajnica	<br />	044/851-075	<br/>
+PRODAVAONICA 163	<br />	192.168.11.16/28	<br />			Vladimira Nazora 166, Kutina	<br />	044/643-447	<br/>
+PRODAVAONICA 164	<br />	192.168.11.32/28	<br />			Desna Martinska Ves 67A, Martinska Ves	<br />	044/711-023	<br/>
+PRODAVAONICA 166	<br />	192.168.11.64/28	<br />			Stjepana Fabijančića Jape 116, V.Gorica	<br />	01/6256-238	<br/>
+PRODAVAONICA 167	<br />	192.168.11.80/28	<br />			Stari Grabovac 156, Novska	<br />	044/600-688	<br/>
+PRODAVAONICA 168	<br />	192.168.11.96/28	<br />			Kratečko 92, Gušće	<br />	044/710-136	<br/>
+PRODAVAONICA 169	<br />	192.168.11.112/28	<br />			Kraljeva Velika 44, Lipovljani	<br />	044/613-756	<br/>
+PRODAVAONICA 170	<br />	192.168.11.128/28	<br />			Matije Gupca 19, Daruvar	<br />	043/335-761	<br/>
+PRODAVAONICA 171	<br />	192.168.11.144/28	<br />			Trg Stjepana Radića 3, Velika Gorica	<br />	01/6225-116	<br/>
+PRODAVAONICA 172	<br />	192.168.11.160/28	<br />			Mažuranićeva ulica 33, Daruvar	<br />	043/440-855	<br/>
+PRODAVAONICA 173	<br />	192.168.11.176/28	<br />			Vrtlinska 105, Čazma	<br />	043/774-011	<br/>
+PRODAVAONICA 174	<br />	192.168.11.192/28	<br />			Gornji Draganec 234, Čazma	<br />	043/776-173	<br/>
+PRODAVAONICA 175	<br />	192.168.11.208/28	<br />			Trg Sv. Ivana 10, Kloštar Ivanić	<br />	01/2892-746	<br/>
+PRODAVAONICA 176	<br />	192.168.30.80/28	<br />			Podborska ulica 21, Daruvar	<br />	043/550-482	<br/>
+PRODAVAONICA 177	<br />	192.168.11.240/28	<br />			Zvekovac 27, Dubrava	<br />	01/272-5846	<br/>
+PRODAVAONICA 178	<br />	192.168.12.0/28	<br />			Nova Kapela 75, Dubrava	<br />	01/272-8036	<br/>
+PRODAVAONICA 179	<br />	192.168.12.16/28	<br />			Moslavačka 4, Čazma	<br />	043/771-611	<br/>
+PRODAVAONICA 180	<br />	192.168.12.32/28	<br />			Antuna i Stjepana Radića 17, Glina - centar	<br />	044/882-069	<br/>
+PRODAVAONICA 183	<br />	192.168.12.80/28	<br />			Petra Zrinskog 11, Velika Gorica	<br />	01/6265-433	<br/>
+PRODAVAONICA 185	<br />	192.168.18.240/28	<br />			Savska 132, Ivanić grad	<br />	01/2888-126	<br/>
+PRODAVAONICA 186	<br />	192.168.12.128/28	<br />			Kralja Tomislava 38, Ivanić grad	<br />	01/6231-775	<br/>
+PRODAVAONICA 187	<br />	192.168.12.144/28	<br />			Eduarda Babića 4, Ivanić grad	<br />	01/6231-776	<br/>
+PRODAVAONICA 188	<br />	192.168.19.16/28	<br />			S.Gregorka bb, Ivanić grad	<br />	01/2881-631	<br/>
+PRODAVAONICA 189	<br />	192.168.12.176/28	<br />			Strmec Bukevski 70, Velika Gorica	<br />	01/3864-051	<br/>
+PRODAVAONICA 190	<br />	192.168.12.192/28	<br />			Lijeva Martinska Ves 82, Martinska Ves	<br />	044/712-152	<br/>
+PRODAVAONICA 191	<br />	192.168.12.208/28	<br />			Prekopa 69, Glina	<br />	044/887-008	<br/>
+PRODAVAONICA 192	<br />	192.168.12.224/28	<br />			Ribnjak 3c, Topusko	<br />	044/885-373	<br/>
+PRODAVAONICA 194	<br />	192.168.13.0/28	<br />			Odra 40, Sisak	<br />	044/720-039	<br/>
+PRODAVAONICA 195	<br />	192.168.13.16/28	<br />			Hrvatskih domobrana 2, Sisak	<br />	044/530-269	<br/>
+PRODAVAONICA 197	<br />	192.168.13.48/28	<br />			Vinogradska 44, Sisak	<br />	044/530-417	<br/>
+PRODAVAONICA 198	<br />	192.168.13.64/28	<br />			Nine Marakovića 4, Sisak	<br />	044/532-394	<br/>
+PRODAVAONICA 199	<br />	192.168.13.80/28	<br />			Ilije Katičića 15, Donji Kukuruzari	<br />	044/851-100	<br/>
+PRODAVAONICA 200	<br />	192.168.13.96/28	<br />	192.168.13.97	<br />	Sunjskih branitelja 18, Sunja         	<br />	044/833-261	<br/>
+PRODAVAONICA 201	<br />	192.168.13.112/28	<br />	192.168.13.113	<br />	J.J.Strossmayera 74, Sisak	<br />	044/534-680	<br/>
+PRODAVAONICA 202	<br />	192.168.13.128/28	<br />	192.168.13.129	<br />	J.J.Strossmayera 59, Sisak	<br />	044/532-046	<br/>
+PRODAVAONICA 203	<br />	192.168.13.144/28	<br />	192.168.13.145	<br />	Vranovinska cesta 5, Topusko	<br />	044/885-115	<br/>
+PRODAVAONICA 204	<br />	192.168.13.160/28	<br />	192.168.13.161	<br />	Mirka Antolića 25, Petrinja	<br />	044/812-889	<br/>
+PRODAVAONICA 205	<br />	192.168.13.176/28	<br />	192.168.13.177	<br />	Malobunska 6, Mala Buna	<br />	01/3882-091	<br/>
+PRODAVAONICA 206	<br />	192.168.13.192/28	<br />	192.168.13.193	<br />	Gradec 134, Gradec	<br />	01/2797-234	<br/>
+PRODAVAONICA 207	<br />	192.168.13.208/28	<br />	192.168.13.209	<br />	Ive Maline 118a, Petrinja	<br />	044/813-335	<br/>
+PRODAVAONICA 208	<br />	192.168.13.224/28	<br />	192.168.13.225	<br />	Trg Slobode 7, Dubrava	<br />	01/2725-415	<br/>
+PRODAVAONICA 209	<br />	192.168.13.240/28	<br />	OFFICEBOX: 192.168.1.1	<br />	Mostari 36, Dubrava	<br />	01/561-8800	<br/>
+PRODAVAONICA 210	<br />	192.168.14.0/28	<br />	192.168.14.1	<br />	Svete Margarete 16, Dubrava	<br />	01/2725-014	<br/>
+PRODAVAONICA 211	<br />	192.168.14.16/28	<br />	192.168.14.17	<br />	O.Kučere,Petrinja	<br />	044/813-114	<br/>
+PRODAVAONICA 212	<br />	192.168.14.192/28	<br />	192.168.14.193	<br />	Josipa Jelačića 2, Daruvar	<br />	043/440-277	<br/>
+PRODAVAONICA 213	<br />	192.168.14.208/28	<br />	192.168.14.209	<br />	Trgovi 52,Dvor	<br />	044/877-019	<br/>
+PRODAVAONICA 214	<br />	192.168.1.16/28	<br />	192.168.1.17	<br />	Mužilovčica 81, Kratečko	<br />	044/520-292	<br/>
+PRODAVAONICA 215	<br />	192.168.14.48/28	<br />	192.168.14.49	<br />	Stjepana Radića 2, Hrvatska Dubica	<br />	044/635-625	<br/>
+PRODAVAONICA 216	<br />	192.168.14.32/28	<br />	192.168.14.33	<br />	Trg K.Lukaša 20, Sveti Ivan Žabno	<br />	048/649-603	<br/>
+PRODAVAONICA 217	<br />	192.168.14.224/28	<br />	OFFICEBOX: 192.168.8.1	<br />	Trg Ante Starčevića 1, Hrastovac	<br />	043/636-432	<br/>
+PRODAVAONICA 218	<br />	192.168.14.240/28	<br />	192.168.14.241	<br />	M. Gupca 15, Lipik	<br />	034/421-985	<br/>
+PRODAVAONICA 219	<br />	192.168.14.64/28	<br />	192.168.14.65	<br />	Trg bana J. Jelačića 4, Sisak	<br />	044/635-037	<br/>
+PRODAVAONICA 220	<br />	192.168.14.80/28	<br />	OFFICEBOX: 192.168.0.1	<br />	Repinec 97, Repinec	<br />	01/5615-724, 01/2344-864	<br/>
+PRODAVAONICA 221	<br />	192.168.14.96/28	<br />	192.168.14.97	<br />	Ulica Hrvatskih velikana 19, Pakrac	<br />	034/620-058	<br/>
+PRODAVAONICA 222	<br />	192.168.14.112/28	<br />	192.168.14.113	<br />	Petrova 24, Kuče	<br />	01/5513-597	<br/>
+PRODAVAONICA 223	<br />	192.168.14.128/28	<br />	192.168.14.129	<br />	Ulica Kralja S.Tomaševića 4, Velika Gorica	<br />	01/5513-598	<br/>
+PRODAVAONICA 224<br />	192.168.14.144/28	<br />	192.168.14.145	<br />	Braće Radić 79, Mraclin	<br />	01/5513-601	<br/>
+PRODAVAONICA 225<br />	192.168.14.160/28	<br />	192.168.14.161	<br />	Trg Seljačka sloge 9, Buševec	<br />	01/5513-603	<br/>
+PRODAVAONICA 226<br />	192.168.14.176/28	<br />	192.168.14.177	<br />	Lavoslava Ružičke 31, Velika Gorica	<br />	01/5513-604	<br/>
+PRODAVAONICA 227<br />			OFFICEBOX: 192.168.1.1	<br />	Kapelica 101, Garešnica	<br />	043/637-033	<br/>
+PRODAVAONICA 228<br />	192.168.18.208/28	<br />	192.168.18.209	<br />	Divuša 29, Hrvatska kostajnica	<br />	044/876-067	<br/>
+PRODAVAONICA 229<br />	192.168.18.144/28	<br />	192.168.18.145	<br />	Bobovac 164a, Bobovac	<br />	044/847-001	<br/>
+PRODAVAONICA 230<br />	192.168.18.0/28	<br />	192.168.18.1	<br />	Crkveni bok 128,Bobovac	<br />	044/848-173	<br/>
+PRODAVAONICA 231<br />	192.168.15.0/28	<br />	OFFICEBOX: 192.168.0.1	<br />	Trg sv.Mihalja 4,Kozjača	<br />	01/5604-855	<br/>
+PRODAVAONICA 232<br />	192.168.15.16/28	<br />	192.168.15.17	<br />	Kralja Zvonimira 4,Glina	<br />	044/550-971	<br/>
+PRODAVAONICA 233<br />	192.168.15.48/28	<br />	192.168.15.49	<br />	Jukinačka 60, Glina	<br />	044/880-162	<br/>
+PRODAVAONICA 234<br />	192.168.15.32/28	<br />	192.168.15.33	<br />	Veleševec 210, Veleševec	<br />	01/551-3954	<br/>
+PRODAVAONICA 235<br />	192.168.15.64/28	<br />	192.168.15.65	<br />	Augusta Šenoe 2A, Sisak	<br />	044/552-069	<br/>
+PRODAVAONICA 236<br />	192.168.15.96/28	<br />	192.168.15.97	<br />	Cugovec 84e, Cugovec	<br />	01/2728-511	<br/>
+PRODAVAONICA 237<br />	192.168.15.80/28	<br />	192.168.15.81	<br />	Kobilić 48, Velika Gorica	<br />	01/5514-162	<br/>
+PRODAVAONICA 238<br />	192.168.16.0/28	<br />	192.168.16.1	<br />	Velikogorička 117,Novo Čiče	<br />	01/6233-298	<br/>
+PRODAVAONICA 239<br />	192.168.15.112/28	<br />	192.168.15.113	<br />	Vinkovačka 1, 10410 Velika Gorica	<br />	01/5516-243	<br/>
+PRODAVAONICA 240<br />	192.168.15.176/28	<br />	192.168.15.177	<br />	Roždanik 35, Novska	<br />	044/674-245	<br/>
+PRODAVAONICA 241<br />	192.168.30.33/36	<br />	192.168.30.32	<br />	Moslavačka ulica 71, Novoselec	<br />	01/323-2906	<br/>
+PRODAVAONICA 242<br />	192.168.15.144/28	<br />	192.168.15.145	<br />	Žrtava domovinskog rata 20, Glina	<br />	044/880-077	<br/>
+PRODAVAONICA 243<br />	192.168.15.128/28	<br />	192.168.15.129	<br />	Žabenska 30, Žabno, Sisak	<br />	044/664-541	<br/>
+PRODAVAONICA 244<br />	192.168.15.160/28	<br />	192.168.15.161	<br />	Vukovarska 21,Glina	<br />	044/882-225	<br/>
+PRODAVAONICA 245<br />	192.168.15.192/28	<br />	192.168.15.193	<br />	Hrastelnica 228,Hrastelnica	<br />	044/741-883	<br/>
+PRODAVAONICA 246<br />	192.168.15.208/28	<br />	192.168.15.209	<br />	Brezovačkog odreda 36,Sisak	<br />	044/741-701	<br/>
+PRODAVAONICA 248<br />	192.168.23.176/28	<br />	OFFICEBOX: 192.168.0.1	<br />	Galdovačka 207,Sisak	<br />	044/552-264	<br/>
+PRODAVAONICA 249<br />	192.168.16.16/28	<br />	192.168.16.17	<br />	Jalševačka 135,Topolovac	<br />	044/550-742	<br/>
+PRODAVAONICA 250<br />	192.168.15.240/28	<br />	192.168.15.241	<br />	Lonja 169,Lonja	<br />	044/710-693	<br/>

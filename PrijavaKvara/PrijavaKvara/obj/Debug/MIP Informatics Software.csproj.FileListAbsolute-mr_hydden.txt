@@ -1,0 +1,32 @@
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\MIP Informatics Software.exe.config
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\MIP Informatics Software.exe
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\MIP Informatics Software.pdb
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmEmailovi.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmMobiteliTelefoni.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmPocetna.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmPrijavaKvara.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmPrijava.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmStatusPrijava.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmTrgovineInfo.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.Properties.Resources.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csproj.GenerateResource.cache
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csproj.CoreCompileInputs.cache
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.exe
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.pdb
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\MIP Informatics Software.exe.config
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\MIP Informatics Software.exe
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\MIP Informatics Software.pdb
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmEmailovi.resources
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmMobiteliTelefoni.resources
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmPocetna.resources
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmPrijavaKvara.resources
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmPrijava.resources
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmStatusPrijava.resources
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmTrgovineInfo.resources
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.Properties.Resources.resources
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csproj.GenerateResource.cache
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csproj.CoreCompileInputs.cache
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.exe
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.pdb
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csproj.AssemblyReference.cache

@@ -1,0 +1,5 @@
+28.02.2022 08:39:46*PRODAVAONICA 001*S. I A Radića 10*POS printer
+28.02.2022 08:40:00*PRODAVAONICA 001*S. I A Radića 10*Tipkovnica
+28.02.2022 08:40:14*PRODAVAONICA 003*Franje Lovrića 1, Sisak*Veliki printer
+28.02.2022 08:40:16*PRODAVAONICA 003*Franje Lovrića 1, Sisak*POS printer
+28.02.2022 09:59:52*PRODAVAONICA 005*Ivana K. Sakcinskog 28*Računalo

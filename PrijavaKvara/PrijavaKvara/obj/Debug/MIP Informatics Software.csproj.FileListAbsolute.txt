@@ -1,0 +1,122 @@
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\MIP Informatics Software.exe.config
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\MIP Informatics Software.exe
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\MIP Informatics Software.pdb
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmEmailovi.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmMobiteliTelefoni.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmPocetna.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmPrijavaKvara.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmPrijava.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmStatusPrijava.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmTrgovineInfo.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.Properties.Resources.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csproj.GenerateResource.cache
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csproj.CoreCompileInputs.cache
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.exe
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.pdb
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\MIP Informatics Software.exe.config
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\MIP Informatics Software.exe
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\MIP Informatics Software.pdb
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmEmailovi.resources
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmMobiteliTelefoni.resources
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmPocetna.resources
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmPrijavaKvara.resources
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmPrijava.resources
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmStatusPrijava.resources
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmTrgovineInfo.resources
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.Properties.Resources.resources
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csproj.GenerateResource.cache
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csproj.CoreCompileInputs.cache
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.exe
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.pdb
+C:\Users\bozid\OneDrive\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csproj.AssemblyReference.cache
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmUnosTrgovine.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.UnosEmailova.resources
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\MIP Informatics Software.exe.config
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\MIP Informatics Software.exe
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\MIP Informatics Software.pdb
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmEmailovi.resources
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmMobiteliTelefoni.resources
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmPocetna.resources
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmPrijavaKvara.resources
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmPrijava.resources
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmStatusPrijava.resources
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmTrgovineInfo.resources
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmUnosTrgovine.resources
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.Properties.Resources.resources
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.UnosEmailova.resources
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csproj.GenerateResource.cache
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csproj.CoreCompileInputs.cache
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.exe
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.pdb
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmHardwareEvidencija.resources
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csproj.AssemblyReference.cache
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmOtpisOpreme.resources
+C:\Users\bozid\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmPrintOtpis.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmHardwareEvidencija.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmOtpisOpreme.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmPrintOtpis.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmEvidencijaOtpisa.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\IronPdf.Assets.Rendering.Windows.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\IronPdf.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itextsharp.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\IronPdf.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itextsharp.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csproj.CopyComplete
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\MIP Informatics Software.csprojAssemblyReference.cache
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\Debug\PrijavaKvara.fmIspisi.resources
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.barcodes.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.commons.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.forms.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.html2pdf.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.io.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.kernel.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.layout.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.pdfa.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.sign.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.styledxmlparser.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.svg.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\System.Buffers.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\System.Memory.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\System.ValueTuple.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.barcodes.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.commons.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.forms.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.html2pdf.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.io.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.kernel.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.layout.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.pdfa.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.sign.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.styledxmlparser.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\itext.svg.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\System.Buffers.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\System.Memory.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\System.ValueTuple.xml
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\System.Drawing.Common.dll
+C:\Users\BozidarP\Desktop\PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\System.Drawing.Common.xml
